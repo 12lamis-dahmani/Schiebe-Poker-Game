@@ -116,7 +116,7 @@ class ResultMenuScene(private val rootService: RootService, private val message:
     // Initialization block: sets up the whole scene
     init {
         opacity = 0.8
-        background = ImageVisual("main2.PNG")
+        background = ImageVisual("poker1.jpeg")
         addComponents(
             blackBox,
             backgroundBox,
